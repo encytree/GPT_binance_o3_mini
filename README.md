@@ -101,6 +101,7 @@ SERPAPI_API_KEY=your_serpapi_api_key           # 선택 사항 (미사용 시 �
 ### 즉시 실행 모드 (테스트)
 
 테스트 및 즉시 실행을 위해 터미널에서 아래 명령을 실행합니다:
+MacOS의 경우 python 대신 python3 사용합니다.
 
 ```bash
 python trading.py --test
@@ -119,6 +120,7 @@ python trading.py
 이 경우, 설정된 스케줄(`SCHEDULE_TIMES`)에 따라 매일 정해진 시간에 거래 작업이 자동으로 수행됩니다.
 
 ---
+
 
 ## 추가 설정
 
@@ -165,5 +167,3 @@ python trading.py
 - [ta 라이브러리](https://technical-analysis-library-in-python.readthedocs.io/)
 
 ```
-
-이 README.md 파일은 프로젝트의 기능, 설치 및 사용 방법, 설정 방법 등을 포괄적으로 설명하여 다른 사용자들이 코드를 이해하고 활용할 수 있도록 돕습니다.
