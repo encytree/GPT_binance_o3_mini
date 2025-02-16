@@ -1,0 +1,12 @@
+python-binance
+pandas
+numpy
+ta
+openai
+schedule
+requests
+python-dotenv
+pydantic
+python-dateutil
+plotly
+streamlit
